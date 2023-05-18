@@ -2,12 +2,14 @@
 
 ClassLink is a study material web app designed to provide quick access to past year question papers for students. This app is built using Flutter and offers a simple and user-friendly interface to access study material.
 
+Access the web app here: [ClassLink Web App](https://class-link-04.web.app/)
+
 ## Features
 
 - PYQ Resource: Access past year question papers from a single place.
 - Easy Navigation: Users can navigate through the app effortlessly with a simple and intuitive UI.
 - Responsive Design: The app is optimized for both desktop and mobile devices, providing a seamless user experience across all devices.
-
+- Favourite and Recent View File: Mark question papers as favourites for easy access in the future and check out recently viewed files.
 ## Screenshots
 
 <img src="https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot%20from%202023-05-18%2011-37-42.png?raw=true" width="400">
