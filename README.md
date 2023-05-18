@@ -10,11 +10,10 @@ ClassLink is a study material web app designed to provide quick access to past y
 
 ## Screenshots
 
-![Screenshot1](https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot_from_2023-05-18_11-37-11.png?raw=true)
-![Screenshot2](https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot_from_2023-05-18_11-37-24.png?raw=true)
-![Screenshot3](https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot_from_2023-05-18_11-37-42.png?raw=true)
-![Screenshot4](https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot_from_2023-05-18_11-38-20.png?raw=true)
-
+<img src="https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot%20from%202023-05-18%2011-37-42.png?raw=true" width="400">
+<img src="https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot%20from%202023-05-18%2011-37-24.png?raw=true" width="400">
+<img src="https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot%20from%202023-05-18%2011-38-20.png?raw=true" width="400">
+<img src="https://github.com/4-alok/classlink_resources/blob/master/screenshorts/Screenshot%20from%202023-05-18%2011-37-11.png?raw=true" width="400">
 
 ## Installation
 
